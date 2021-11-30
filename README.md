@@ -1,5 +1,4 @@
 <h2>Mr_Chibi's Defense</h2>
-<h2>Mr_Chibi's Defense</h2>
 <b>Description:</b>
 
 <p>What does this datapack do?<br>
