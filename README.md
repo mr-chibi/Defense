@@ -19,9 +19,9 @@
 
 <h2>How it works:</h2>
 <ol>
-  <li>Stand in "fire parictles" 5 block distance.
   <li>/team join defense_admin</li>
   <li>/trigger create_defense</li>
+  <li>Stand in "fire parictles" 5 block distance.</li>
   <li>/trigger defense_perms</li>
   <li>Click [Enable] to turn a feature on!</li>
 </ol>
