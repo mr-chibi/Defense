@@ -1,4 +1,24 @@
 <h2>Mr_Chibi's Defense</h2>
+<h2>Mr_Chibi's Defense</h2>
+<b>Description:</b>
+
+<p>What does this datapack do?<br>
+It creates, Admin type of protection from mobs, players, and has a bunch of permissions on a list that can be enabled!</p>
+
+<p><b>Defense:</b><br>
+It means, protection from entity, player or any other permission that is enabled.</p>
+
+<p><b>Example,</b><br>
+Once you've joined /team join defense_admin and you've done /trigger create_defense it will create a 30 block distance protection by default.<br> 
+An Admin would have to edit the setting once created.</p>
+
+<p><b>permissions:</b>
+There will be a "fire particle" stand at least 5 blocks distance from it to enable /trigger defense_perms it will display a list of permissions that you can toggle on/off.</p>
+
+<p><b>Defense size:</b><br>
+The command "/trigger defense_size" will display a list of block distance of how big protection can be between 30-90 blocks!</p>
+
+<h2>Single / Multiplayer Friendly!</h2>
 <ul>
 <li>Mr_Chibi's Defense is a minecraft datapack!</li>
 <li>It's Singleplayer & Multiplayer Friendly!</li>
