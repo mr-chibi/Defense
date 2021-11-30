@@ -1,0 +1,10 @@
+execute if score @s defense_id = @e[type=minecraft:marker,tag=defense_center,tag=size_30,distance=0..30,limit=1] defense_id run data modify entity @e[type=minecraft:marker,tag=defense_center,tag=size_30,distance=0..30,limit=1] data.farewell set from entity @s SelectedItem.tag.display.Name
+execute if score @s defense_id = @e[type=minecraft:marker,tag=defense_center,tag=size_40,distance=0..40,limit=1] defense_id run data modify entity @e[type=minecraft:marker,tag=defense_center,tag=size_40,distance=0..40,limit=1] data.farewell set from entity @s SelectedItem.tag.display.Name
+execute if score @s defense_id = @e[type=minecraft:marker,tag=defense_center,tag=size_50,distance=0..50,limit=1] defense_id run data modify entity @e[type=minecraft:marker,tag=defense_center,tag=size_50,distance=0..50,limit=1] data.farewell set from entity @s SelectedItem.tag.display.Name
+execute if score @s defense_id = @e[type=minecraft:marker,tag=defense_center,tag=size_60,distance=0..60,limit=1] defense_id run data modify entity @e[type=minecraft:marker,tag=defense_center,tag=size_60,distance=0..60,limit=1] data.farewell set from entity @s SelectedItem.tag.display.Name
+execute if score @s defense_id = @e[type=minecraft:marker,tag=defense_center,tag=size_70,distance=0..70,limit=1] defense_id run data modify entity @e[type=minecraft:marker,tag=defense_center,tag=size_70,distance=0..70,limit=1] data.farewell set from entity @s SelectedItem.tag.display.Name
+execute if score @s defense_id = @e[type=minecraft:marker,tag=defense_center,tag=size_80,distance=0..80,limit=1] defense_id run data modify entity @e[type=minecraft:marker,tag=defense_center,tag=size_80,distance=0..80,limit=1] data.farewell set from entity @s SelectedItem.tag.display.Name
+execute if score @s defense_id = @e[type=minecraft:marker,tag=defense_center,tag=size_90,distance=0..90,limit=1] defense_id run data modify entity @e[type=minecraft:marker,tag=defense_center,tag=size_90,distance=0..90,limit=1] data.farewell set from entity @s SelectedItem.tag.display.Name
+
+#
+scoreboard players set @s defense_farewell 0
