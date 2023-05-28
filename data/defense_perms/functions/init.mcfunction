@@ -22,7 +22,11 @@ execute as @e[type=minecraft:marker,tag=defense_center] at @s[scores={df_surviva
 execute as @e[type=minecraft:marker,tag=defense_center] at @s[scores={df_creative=1}] as @a at @s run function defense_perms:execute/creative
 execute as @e[type=minecraft:marker,tag=defense_center] at @s[scores={df_particles=1}] run function defense_perms:execute/particles
 
+
 #
 execute as @a at @s run function defense_perms:execute/title
 execute as @a at @s run function defense_perms:execute/greeting
 execute as @a at @s run function defense_perms:execute/farewell
+
+#
+execute as @a at @s[tag=defense_member,gamemode=creative] run function #defense:limited_creative

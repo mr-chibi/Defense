@@ -1,0 +1,14 @@
+{
+	"values": [
+		"defense_perms:limited_creative/clear_items",
+		"defense_perms:limited_creative/armor",
+		"defense_perms:limited_creative/beds",
+		"defense_perms:limited_creative/decoration",
+		"defense_perms:limited_creative/items",
+		"defense_perms:limited_creative/shulkers",
+		"defense_perms:limited_creative/tools",
+		"defense_perms:limited_creative/skulls",
+		"defense_perms:limited_creative/spawn_eggs",
+		"defense_perms:limited_creative/tools"
+	]
+}

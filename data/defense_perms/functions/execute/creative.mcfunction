@@ -182,8 +182,6 @@ execute if score @s defense_id = @e[type=minecraft:marker,tag=defense_center,tag
 execute if score @s defense_id = @e[type=minecraft:marker,tag=defense_center,tag=size_90,limit=1,distance=0..90] defense_mber_5 run gamemode creative @s[tag=defense_member,nbt={Inventory:[]}]
 
 
-
-
 ##############################################################################
 # 
 ##############################################################################
